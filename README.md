@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 My name is Dumitru and I'm an Android Developer.
+- 🌱 I'm also constantly learning and trying other tech stacks.
+- 🤔 Kept all of my sources on bitbucket but now gradually starting to move them here.
+- ☀️ In my free time I love reading, running, seaside beaches, and watching the Doctor Who series.
+
 
 <!--
 **dhr039/dhr039** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
