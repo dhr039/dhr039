@@ -1,5 +1,5 @@
-- 👋 My name is Dumitru and I'm an Android Developer.
-- 🌱 Developing in other tech stacks too.
+- 👋 My name is Dumitru and I'm an Android and full-stack developer.
+- 🌱 Always open to try new tech stacks.
 - 🤔 Kept all of the sources on bitbucket but now gradually starting to move them here.
 - ☀️ In my free time I love reading, running, seaside beaches, and watching the Doctor Who series.
 
