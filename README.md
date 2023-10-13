@@ -1,4 +1,4 @@
-- 👋 My name is Dumitru and I work with Android/React.
+- 👋 My name is Dumitru and I work with Android and React.
 - 🌱 Always open to try new tech stacks.
 - 🤔 Kept all of the sources on bitbucket but now gradually starting to move them here.
 - ☀️ In my free time I love reading, running, seaside beaches, and watching the Doctor Who series.
