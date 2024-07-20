@@ -1,6 +1,5 @@
 -  My name is Dumitru and I'm an Android developer.
 -  Always open to exploring new areas.
-- ☀️ In my free time I love reading, running, seaside beaches.
 
 
 <!--
